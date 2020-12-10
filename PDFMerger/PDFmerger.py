@@ -11,4 +11,4 @@ def merge_pdf(pdf_list):
 	merger.write('merged.pdf')
 
 merge_pdf(inputs)
-print('All Done')
+print('All Done.')
