@@ -4,6 +4,6 @@ Give any number of pdfs and it will merge them in seconds.
 
 How to use:
 Import necessary packages. (pip install PyPDF2)
-Run the python script with the arguments as the pdfs you want to merge. The pdf should be in which the script is being run.
+Run the python script with the arguments as the pdfs you want to merge. The pdf should be in the same folder in which the script is being run.
 It will output the merged pdf as 'merged.pdf'
 eg. python PDFmerger.py one.pdf two.pdf three.pdf
