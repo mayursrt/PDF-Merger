@@ -9,8 +9,10 @@ How to use:<br>
 
 	pip install PyPDF2
 </li>
-<li>Run the python script with the arguments as the pdfs you want to merge. The pdf should be in the same folder in which the script is being run.<br></li>
-<li>It will output the merged pdf as 'merged.pdf'<br></li>
+<li>Run the python script with the arguments as the pdfs you want to merge. The pdf should be in the same folder in which the script is being run.<br>
 eg:
 
 	python PDFmerger.py one.pdf two.pdf three.pdf
+</li>
+<li>It will output the merged pdf as 'merged.pdf'<br></li>
+</ol>
